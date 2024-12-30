@@ -5,7 +5,7 @@
 [Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器](https://visualstudio.microsoft.com/zh-hans/)
 
 2、Everything---快速搜索定位文件和文件夹
-[www.voidtools.com](https://www.voidtools.com/)
+[Everything](https://www.voidtools.com/)
 
 3、VirtualBox---虚拟机
 [VirtualBox | 虚拟化 | Oracle 中国](https://www.oracle.com/cn/virtualization/virtualbox/)
@@ -17,13 +17,13 @@
 [Free Download | Anaconda](https://www.anaconda.com/download)
 
 6、BowPad---文本编辑器，可以打开大于 2GB 的文件，多种编码格式
-[github.com](https://github.com/stefankueng/BowPad)
+[BowPad](https://github.com/stefankueng/BowPad)
 
 6、一些实用小工具
 [Home - Stefans Tools](https://tools.stefankueng.com/)
 
 7、dnSpy---反编译软件
-[github.com](https://github.com/dnSpy/dnSpy)
+[dnSpy](https://github.com/dnSpy/dnSpy)
 
 
 
